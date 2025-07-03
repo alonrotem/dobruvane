@@ -6,7 +6,7 @@
     font-style: normal;
     font-weight: 400;
     src: 
-        url(/assets/fonts/YesevaOne-Regular.ttf) format("truetype")
+        url('{{ site.baseurl }}/assets/fonts/YesevaOne-Regular.ttf') format("truetype")
 }
 
 .intro-pic {
