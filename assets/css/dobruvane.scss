@@ -23,14 +23,22 @@ html, body {
     font-family:  "YesevaOne";
 }
 
+.navbar-nav {
+    gap: 1rem;
+}
+    
+
 .nav-container {
     min-height: 80px;
     background-color: rgb(255, 252, 244);
     position: sticky;
-    top: 0;   
+    top: 0;
 }
-
 
 .navbar-brand .logo {
     width: 50px;
+}
+
+.navbar-brand .logo-title {
+    margin-left: 10px;
 }
